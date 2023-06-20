@@ -1,0 +1,7 @@
+const ISSUE_STATUS = {
+    CREATED: 'CREATED',
+    SEEN: 'SEEN',
+    ONGOING: 'ONGOING',
+    CLOSED: 'CLOSED'
+}
+export { ISSUE_STATUS }
